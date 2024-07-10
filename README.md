@@ -11,8 +11,10 @@ Developed a convolutional neural network for classifying human emotions from dyn
 Real-time emotion detection is used in mental health monitoring,
 patient care, and therapy sessions to assess emotional states,
 track progress, and provide timely interventions.
+
 2.Entertainment
 Real-time emotion detection enhances gaming experiences by adjusting gameplay elements based on the player's emotional state, leading to more immersive and engaging interactions.
+
 3.Human Resource Management
 In workplace settings, real-time emotion detection can assist HR departments in assessing employee morale, identifying potential conflicts or issues, and implementing strategies to improve overall well-being and productivity.
 
