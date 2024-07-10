@@ -1,7 +1,7 @@
 Real-Time Emotion RecognitionReal-Time Emotion Recognition
-Mar 2024 - PresentMar 2024 - Present
+- Mar 2024
 
-Associated with Nawab Shah Alam Khan College of Engineering and TechnologyAssociated with Nawab Shah Alam Khan College of Engineering and Technology
+
 Developed a real-time facial emotion recognition system utilizing Convolutional Neural Networks (CNN) and OpenCV to detect and classify emotions from both images and live video feed.
 
 Technologies Used:
@@ -12,5 +12,5 @@ Technologies Used:
 
 Achievements:
 
-• Successfully achieved 85% accuracy in emotion recognition across multiple emotion categories.
+• Successfully achieved 75% accuracy in emotion recognition across multiple emotion categories.
 • Improved understanding of deep learning, computer vision, and real-time processing techniques.
