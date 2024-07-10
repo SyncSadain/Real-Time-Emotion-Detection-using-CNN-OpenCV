@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Stream - Real Time Emotion Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{{ url_for('index') }}">Home</a>
+            <a href="{{ url_for('login') }}">Login</a>
+            <a href="{{ url_for('register') }}">Register</a>
+        </nav>
+    </header>
+    <div class="container">
+        <h1>LIVE STREAM</h1>
+        <h3>~WebCam Feed:</h3>
+           
+        <img src="{{ url_for('video_feed') }}" width="640" height="480">
+    </div>
+    <div class="metrics-container">
+        <h2>EMOTION METRICS:</h2>
+        <p>1.angry</p>
+        <p>2.happy</p>
+        <p>3.sad</p>
+        <p>4.nuetral</p>
+        <p>5.disgust</p>
+        <p>6.fear</p>
+        <p>7.surprise</p>     
+    </div>
+</body>
+</html>
+
