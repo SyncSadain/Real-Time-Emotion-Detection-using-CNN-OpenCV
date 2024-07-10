@@ -4,6 +4,7 @@
 
 Developed a convolutional neural network for classifying human emotions from dynamic facial expressions in real time. We use transfer learning on the fully connected layers of an existing convolutional neural network which was pretrained for human emotion classification. A variety of datasets, as well as our own unique image dataset, is used to train the model. An overall training accuracy of 75% and test accuracy of 60% is achieved. Finally, a live video stream connected to a face detector feeds images to the neural network. The network subsequently classifies an arbitrary number of faces per image simultaneously in real time .
 
+![Uploading Screenshot 2024-06-06 012641.png…]()
 # Some applications of Emotion Detection with Deep Learning:
 1.HealthCare
 Real-time emotion detection is used in mental health monitoring,
