@@ -7,15 +7,15 @@ Developed a convolutional neural network for classifying human emotions from dyn
 ![Screenshot 2024-07-10 131353](https://github.com/SyncSadain/Real-Time-Emotion-Detection-using-CNN-OpenCV/assets/169474238/40d3be02-bd58-49f1-95d6-c68250fe45df)
 
 # Some applications of Emotion Detection with Deep Learning:
-1.HealthCare
+1.HealthCare : 
 Real-time emotion detection is used in mental health monitoring,
 patient care, and therapy sessions to assess emotional states,
 track progress, and provide timely interventions.
 
-2.Entertainment
+2.Entertainment : 
 Real-time emotion detection enhances gaming experiences by adjusting gameplay elements based on the player's emotional state, leading to more immersive and engaging interactions.
 
-3.Human Resource Management
+3.Human Resource Management : 
 In workplace settings, real-time emotion detection can assist HR departments in assessing employee morale, identifying potential conflicts or issues, and implementing strategies to improve overall well-being and productivity.
 
 ![Screenshot 2024-06-06 012641](https://github.com/SyncSadain/Real-Time-Emotion-Detection-using-CNN-OpenCV/assets/169474238/45e3b22b-83df-4431-b58e-3f696f970b0d)
