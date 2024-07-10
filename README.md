@@ -4,6 +4,7 @@
 
 Developed a convolutional neural network for classifying human emotions from dynamic facial expressions in real time. We use transfer learning on the fully connected layers of an existing convolutional neural network which was pretrained for human emotion classification. A variety of datasets, as well as our own unique image dataset, is used to train the model. An overall training accuracy of 75% and test accuracy of 60% is achieved. Finally, a live video stream connected to a face detector feeds images to the neural network. The network subsequently classifies an arbitrary number of faces per image simultaneously in real time .
 
+![Screenshot 2024-07-10 131353](https://github.com/SyncSadain/Real-Time-Emotion-Detection-using-CNN-OpenCV/assets/169474238/40d3be02-bd58-49f1-95d6-c68250fe45df)
 
 # Some applications of Emotion Detection with Deep Learning:
 1.HealthCare
@@ -15,6 +16,7 @@ Real-time emotion detection enhances gaming experiences by adjusting gameplay el
 3.Human Resource Management
 In workplace settings, real-time emotion detection can assist HR departments in assessing employee morale, identifying potential conflicts or issues, and implementing strategies to improve overall well-being and productivity.
 
+![Screenshot 2024-06-06 012641](https://github.com/SyncSadain/Real-Time-Emotion-Detection-using-CNN-OpenCV/assets/169474238/45e3b22b-83df-4431-b58e-3f696f970b0d)
 # Technologies Used:
 
 • Programming Languages: Python
